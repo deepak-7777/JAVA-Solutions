@@ -1,3 +1,5 @@
+package PatternQuestion;
+
 public class Pattern {
 
     // 1. Square Hollow
@@ -356,3 +358,4 @@ public class Pattern {
     }
 
 }
+
