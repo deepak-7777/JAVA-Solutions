@@ -98,6 +98,9 @@ public class MCQ1 {
     static void q15() {
         int i = 1;
         switch (i) {
+            case 0:
+                System.out.println("zero");
+                break;
             case 1:
                 System.out.println("one");
             case 2:
@@ -155,6 +158,7 @@ public class MCQ1 {
     static void q23() {
         int j = 0;
         boolean b = false;
+        char c = 17;
         System.out.println("Q23 Output: " + j + " " + b);
     }
 
